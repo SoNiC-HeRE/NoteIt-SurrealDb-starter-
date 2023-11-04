@@ -27,6 +27,16 @@ This repo is a starter kit that sets up front-end and back-end of a simple react
 
 <hr>
 
+## Working:
+
+
+
+![Kooha-2023-11-04-08-28-08](https://github.com/SoNiC-HeRE/NoteIt-SurrealDb-starter-template/assets/96797205/3e59166b-c00a-4f7b-9548-dc5809d173f5)
+
+
+
+<hr>
+
 ## Future Scope:
 Many more features can be added such as:
 - User Authentication
